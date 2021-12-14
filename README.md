@@ -3,3 +3,15 @@
 - Start the MongoDB server.
 - Run npm install and npm run build from the frontend directory to clone this repository.
 - Run./gradlew bootRun from the root directory.
+
+# Technologoies used:-
+- Reactjs
+- Spring Boot
+- MongoDB
+- Java
+- Javascript
+- HTML5
+- CSS
+
+# creator:-
+- Bhargav Patel
